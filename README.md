@@ -1,6 +1,6 @@
 # REST Blog App
 
-**Technogy Used**
+**Technology Used**
 
 - NodeJS
 - MongoDB
